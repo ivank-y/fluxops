@@ -1,0 +1,12 @@
+{
+    "dc-1.rit.local": {
+        "address": [
+            "172.17.110.90",
+            32934
+        ],
+        "command_port": 45354,
+        "last_active": 1737477297.5312476,
+        "status": "active",
+        "hostname": "dc-1.rit.local"
+    }
+}
